@@ -1,6 +1,6 @@
 # FLow3
 
-## Storing Features using Struct
+## Storing Features of Cycle
 
 Here we have created a Structs(Features) to store all the features or types of a cycle.
 
